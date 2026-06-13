@@ -1,0 +1,6 @@
+{
+  "name": "3D Neon Poyga",
+  "description": "Futuristik 3D neon uslubidagi mashina poygasi o'yini. Tezlikni oshiring, tangalarni to'plang va garajda mashinangizni yangilang!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
